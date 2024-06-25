@@ -59,7 +59,7 @@ nav ul li a:hover {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background: url('img/IMAGE 2024-06-23 02:36:51.jpg') no-repeat center center/cover;
+    background: url('IMAGE 2024-06-23 02:36:51.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -111,12 +111,12 @@ nav ul li a:hover {
 }
 
 .wedding-section {
-    background: url('img/P1-img3.jpg') no-repeat center center/cover;
+    background: url('P1-img3.jpg') no-repeat center center/cover;
 
 }
 
 .section {
-    background: url('img/P2-img3.jpg') no-repeat center center/cover;
+    background: url('P2-img3.jpg') no-repeat center center/cover;
 }
 
 .section .content, .section1 .content1, .wedding-section .sub-section {
